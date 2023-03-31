@@ -1,0 +1,7 @@
+console.log(5>4)
+console.log("apple">"pineapple")
+console.log("2">"12")
+console.log(c== null)
+console.log(c===null)
+console.log(null=="\n0\n")
+console.log(+"\n0\n")
